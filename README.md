@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola a Todos 👋
+## Hello everybody 👋
+
+## Este repositorio ha sido creado como presentación profesional de Alejandro García Marulanda.
+## This repository has been created as a professional presentation for Alejandro García Marulanda.
 
 <!--
 **agarciam0879/agarciam0879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
